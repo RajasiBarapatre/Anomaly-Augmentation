@@ -1,0 +1,4 @@
+feature,n_unique,top_value,top_value_pct
+proto,86,tcp,76.42
+service,13,-,61.9
+state,8,FIN,72.33

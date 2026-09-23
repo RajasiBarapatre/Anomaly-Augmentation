@@ -1,0 +1,43 @@
+feature,type,score,metric
+sttl,numeric,0.8154419695238095,AUC
+ct_state_ttl,numeric,0.8002598676190475,AUC
+dload,numeric,0.7520347009523809,AUC
+ct_srv_dst,numeric,0.700089139047619,AUC
+ct_dst_ltm,numeric,0.6872243361904762,AUC
+dttl,numeric,0.6813353371428571,AUC
+ackdat,numeric,0.6731125199999999,AUC
+dmean,numeric,0.6640463857142858,AUC
+ct_srv_src,numeric,0.6620273695238095,AUC
+tcprtt,numeric,0.6589090828571428,AUC
+ct_src_ltm,numeric,0.6565502533333334,AUC
+synack,numeric,0.655590402857143,AUC
+dinpkt,numeric,0.6408389990476192,AUC
+sjit,numeric,0.6265012961904761,AUC
+sinpkt,numeric,0.623416261904762,AUC
+dur,numeric,0.6191779819047618,AUC
+djit,numeric,0.6151259228571428,AUC
+rate,numeric,0.6146690285714286,AUC
+ct_dst_src_ltm,numeric,0.6121508428571429,AUC
+sload,numeric,0.6091669666666666,AUC
+dbytes,numeric,0.5948989028571429,AUC
+dpkts,numeric,0.5884800523809524,AUC
+dloss,numeric,0.5731324495238095,AUC
+trans_depth,numeric,0.5621607885714286,AUC
+ct_flw_http_mthd,numeric,0.5616853790476192,AUC
+spkts,numeric,0.5612691038095238,AUC
+sloss,numeric,0.5578833914285715,AUC
+sbytes,numeric,0.5565489828571428,AUC
+ct_dst_sport_ltm,numeric,0.5476221961904761,AUC
+dtcpb,numeric,0.5164252523809524,AUC
+dwin,numeric,0.5140292542857143,AUC
+stcpb,numeric,0.510140559047619,AUC
+response_body_len,numeric,0.509645179047619,AUC
+smean,numeric,0.5072298523809524,AUC
+ct_src_dport_ltm,numeric,0.5047000980952381,AUC
+is_sm_ips_ports,numeric,0.5035142857142857,AUC
+swin,numeric,0.503373181904762,AUC
+is_ftp_login,numeric,0.5004007961904762,AUC
+ct_ftp_cmd,numeric,0.5003865123809523,AUC
+state,categorical,0.3362247536883187,Cramer's V
+service,categorical,0.27867591676051995,Cramer's V
+proto,categorical,0.10827026164568056,Cramer's V
