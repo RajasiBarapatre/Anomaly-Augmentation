@@ -1,0 +1,42 @@
+feature,type,score,metric
+src_bytes,numeric,0.9101131725,AUC
+dst_bytes,numeric,0.9040946125,AUC
+dst_host_srv_count,numeric,0.8950946075,AUC
+same_srv_rate,numeric,0.8806832025,AUC
+dst_host_same_srv_rate,numeric,0.8725866975000001,AUC
+service,categorical,0.8709475918448878,Cramer's V
+diff_srv_rate,numeric,0.8500897525,AUC
+logged_in,numeric,0.847025,AUC
+dst_host_diff_srv_rate,numeric,0.8340721200000001,AUC
+count,numeric,0.82998563,AUC
+dst_host_serror_rate,numeric,0.8143488000000001,AUC
+serror_rate,numeric,0.8092371125000001,AUC
+flag,categorical,0.7974605045158611,Cramer's V
+srv_serror_rate,numeric,0.7932459849999999,AUC
+dst_host_srv_serror_rate,numeric,0.7872890350000001,AUC
+dst_host_count,numeric,0.714361365,AUC
+dst_host_srv_diff_host_rate,numeric,0.6878730325,AUC
+srv_diff_host_rate,numeric,0.63644692,AUC
+dst_host_same_src_port_rate,numeric,0.635659035,AUC
+rerror_rate,numeric,0.58761846,AUC
+dst_host_rerror_rate,numeric,0.5833473225,AUC
+srv_rerror_rate,numeric,0.583002945,AUC
+dst_host_srv_rerror_rate,numeric,0.5732931524999999,AUC
+srv_count,numeric,0.5661979625000001,AUC
+duration,numeric,0.5429039425,AUC
+wrong_fragment,numeric,0.50905,AUC
+is_guest_login,numeric,0.506375,AUC
+num_compromised,numeric,0.5047196749999999,AUC
+num_root,numeric,0.504524645,AUC
+num_access_files,numeric,0.5026997875,AUC
+num_file_creations,numeric,0.5019253875,AUC
+hot,numeric,0.50126044,AUC
+root_shell,numeric,0.501,AUC
+su_attempted,numeric,0.500625,AUC
+num_shells,numeric,0.5003,AUC
+num_failed_logins,numeric,0.50010007,AUC
+land,numeric,0.5001,AUC
+is_host_login,numeric,0.5,AUC
+urgent,numeric,0.5,AUC
+num_outbound_cmds,numeric,0.5,AUC
+protocol_type,categorical,0.27280865014003436,Cramer's V

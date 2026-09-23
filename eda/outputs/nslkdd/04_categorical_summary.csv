@@ -1,0 +1,4 @@
+feature,n_unique,top_value,top_value_pct
+protocol_type,3,tcp,80.94
+service,67,http,39.05
+flag,11,SF,68.87
