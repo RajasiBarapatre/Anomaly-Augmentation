@@ -1,5 +1,3 @@
-# AExperimentsForApproaches
-
 ## Overview
 Experimentation pipeline for comparing tabular data augmentation approaches for the
 CS5344 anomaly detection project. The goal is to generate synthetic **normal-only** data
