@@ -61,7 +61,6 @@ outputs/                       # Generated synthetic CSVs (with 'id' column as c
 
 ### Run Advanced Approaches (10–17)
 ```bash
-cd AExperimentsForApproaches
 python3 run_advanced_experiments.py
 ```
 
